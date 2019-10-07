@@ -1,6 +1,6 @@
 ### Godwin Black Font
 - Copyright (c) 2019 by Noh MinSung. All rights reserved.
-- Designer Noh Min Sung
+- Designer: Noh Min Sung
 - Designer Url: https://www.behance.net/minsungnoh
 - Medium (Kor): 
 
